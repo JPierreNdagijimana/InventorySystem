@@ -1,0 +1,51 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "God!Made1",
+    "database": "inventoryDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelize-meta.json",
+    "seederStorage": "json",
+    "seederStoragePath": "sequelize-data.json",
+    "define": {
+      "timestamps": false
+    },
+    "migrationStorageTableName": "sequelize_meta",
+    "seederStorageTableName": "sequelize_data"
+  },
+  "test": {
+    "username": "admin",
+    "password": "God!Made1",
+    "database": "inventoryDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelize-meta.json",
+    "seederStorage": "json",
+    "seederStoragePath": "sequelize-data.json",
+    "define": {
+      "timestamps": false
+    },
+    "migrationStorageTableName": "sequelize_meta",
+    "seederStorageTableName": "sequelize_data"
+  },
+  "production": {
+    "username": "admin",
+    "password": "God!Made1",
+    "database": "inventoryDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelize-meta.json",
+    "seederStorage": "json",
+    "seederStoragePath": "sequelize-data.json",
+    "define": {
+      "timestamps": false
+    },
+    "migrationStorageTableName": "sequelize_meta",
+    "seederStorageTableName": "sequelize_data"
+  }
+}
+
